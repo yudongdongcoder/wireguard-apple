@@ -1,0 +1,12 @@
+// Developer.xcconfig
+
+// You Apple developer account's Team ID
+DEVELOPMENT_TEAM = TXC3W4VC27
+
+// The bundle identifier of the apps.
+// Should be an app id created at developer.apple.com
+// with Network Extensions capabilty.
+APP_ID_IOS = com.wg.test123.ios
+APP_ID_MACOS = com.wg.test456.mac
+PATH = ${PATH}:/opt/homebrew/Cellar/go@1.22/1.22.7/libexec/bin
+///opt/homebrew/Cellar/go@1.22/1.22.7/
